@@ -2,7 +2,7 @@ Package.describe({
   name: 'flowkey:iscroll',
   version: '5.1.3',
   // Brief, one-line summary of the package.
-  summary: 'A high performance, small footprint, dependency free, multi-platform javascript scroller - iScroll.js',
+  summary: 'A high performance, small footprint, dependency free, multi-platform javascript scroller',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/flowkey/iscroll.git',
   // By default, Meteor will default to using README.md for documentation.
